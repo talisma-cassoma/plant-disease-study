@@ -1,2 +1,2 @@
 # plant-disease-study
-- [ ]  create image segmentation model
+- [x]  create image segmentation model
